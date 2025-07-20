@@ -1,0 +1,13 @@
+venv/
+env.txt/
+__pycache__/
+
+# Ignore __pycache__ directories everywhere
+**/__pycache__/
+
+# Specific paths to ignore
+llms/__pycache__/
+ui/__pycache__/
+
+# Environment files
+env.txt

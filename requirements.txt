@@ -1,0 +1,9 @@
+langchain
+langgraph
+faiss-cpu
+langchain_community
+langchain_openai
+langchain_groq
+langchain_core
+streamlit
+tavily-python
