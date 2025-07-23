@@ -1,6 +1,6 @@
 
 # 🤖 All Rounder Chatbot with Memory
-> _“An AI so good, it remembers your childhood trauma (just kidding… or not).”_
+
 
 ![AI Chat](https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif)
 
